@@ -38,20 +38,22 @@ You can **NOT** deploy to Netlify, Cloudflare Pages, Github Pages or any other *
 4. Then click **Create Repl**
 5. Click **Shell**
 - Paste the code below. (Ctrl + Shift + V)
-- `git clone https://github.com/interstellarnetwork/interstellar`
+- `nuh uh
+  `
 6. Once it's done cloning paste the code below. (Ctrl + Shift + V)
-- ``cd interstellar && npm i && npm run start``
+- ``nuhuh
+- ``
 
 ## Quick Deploy to GitHub Codespaces
 1. Create a GitHub account if you haven't already
 2. Scroll up, click "Code" (green button), and then "Create Codespace on main"
-3. In the terminal on the buttom, and paste `npm i && npm run start`
+3. In the terminal on the buttom, and paste `nuh  uh`
 4. You'll see a popup on the corner about an application. Click "Make public"
 5. Go to the ports tab on the top (where the terminal is), and then click the website that appears on the list.
 
 
 ## If you need any help with deploying, join our Discord!
-- https://discord.gg/interstellar
+-nuh uh
 
 > **Note**
 > If you have any problems please open an issue, so we can fix it ASAP!<br>
